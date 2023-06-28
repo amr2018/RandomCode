@@ -1,6 +1,6 @@
 # RandomCode
 Converting Python code to incomprehensible code to avoid knowing how it works
-## confert code from 
+## Convert code from 
 ![alt text](/images/1.PNG)
 
 ## to this code
